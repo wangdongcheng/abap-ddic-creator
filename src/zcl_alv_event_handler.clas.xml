@@ -4,7 +4,7 @@
   <asx:values>
    <VSEOCLASS>
     <CLSNAME>ZCL_ALV_EVENT_HANDLER</CLSNAME>
-    <LANGU>1</LANGU>
+    <LANGU>E</LANGU>
     <DESCRIPT>ALV event handler</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
